@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alzahraa Gamal</h1>
 
 <h3 align="center">
-AI Student | Machine Learning Engineer | Data Analyst
+AI Engineer| Machine Learning Engineer | Data Analyst
 </h3>
 
 <p align="center">

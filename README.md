@@ -1,96 +1,149 @@
 <h1 align="center">Hi 👋, I'm Alzahraa Gamal</h1>
 
 <h3 align="center">
-AI Engineer| Machine Learning Engineer | Data Analyst
+AI & Machine Learning Engineer | Data Analyst | AI Automation Enthusiast
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, and Data Analytics.
+Passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, and Data Analytics.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode,docker" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-- 🎓 AI Student at Faculty of Computers and Artificial Intelligence, Sadat University
-- 🌱 Currently learning Advanced Machine Learning, NLP, LLMs, and MLOps
-- 💡 Interested in AI Research and Real-World Applications
-- 📊 Experienced in Data Analysis and Power BI Dashboards
-- 🎯 Goal: Become an AI Engineer
+🎓 AI Student at the Faculty of Computers and Artificial Intelligence, Sadat University.
+
+💡 I enjoy transforming real-world problems into AI-powered solutions using Machine Learning, Deep Learning, NLP, Business Intelligence, and AI Automation.
+
+🌱 Currently exploring:
+
+- Large Language Models (LLMs)
+- AI Agents
+- MLOps & MLflow
+- Computer Vision
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Featured Projects
 
-### Programming Languages
+### 🤖 AI Telegram Assistant
+AI-powered Telegram chatbot using n8n, Groq LLM, SerpAPI, Speech-to-Text, and AI Agents.
+
+### 🩺 Smart Doctor
+Machine Learning application for disease prediction using multiple classification models.
+
+### 🏦 Loan Approval Prediction
+End-to-end Machine Learning pipeline for loan approval prediction with Streamlit deployment.
+
+### ❤️ ECG Signal Classification
+Deep Learning model for ECG signal classification using CNNs.
+
+### 🚢 Titanic Survival Prediction
+Data Cleaning, EDA, Feature Engineering, and Machine Learning.
+
+### 📈 Sales Forecasting
+Time-series forecasting and sales trend analysis.
+
+### 📊 Sales Performance Dashboard
+Interactive Power BI dashboard with SQL integration and DAX measures.
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming
 - Python
 - SQL
+- C++
 
-### Machine Learning
+### 🤖 AI & Machine Learning
 - Scikit-learn
 - TensorFlow
 - PyTorch
+- Keras
+- OpenCV
+- Hugging Face Transformers
 
-### Data Analysis
+### 📊 Data Analysis
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Power BI
 - Tableau
 
-### Tools
+### ⚙️ MLOps & Tools
 - Git
 - GitHub
+- MLflow
+- n8n
 - VS Code
 - Jupyter Notebook
 - Google Colab
 
 ---
 
-## 📂 Featured Projects
+# 📜 Certifications
 
-### 🏦 Loan Classification
-Machine Learning model for predicting loan approval.
-
-### 🚢 Titanic Data Analysis
-Data Cleaning, Visualization, and Machine Learning.
-
-### 📈 Sales Forecasting
-Time Series Forecasting using Python.
-
-### ❤️ ECG Signal Classification
-Deep Learning model for ECG signal classification.
-
-### 📊 Power BI Dashboards
-Interactive dashboards for business analytics.
+- 🎓 Microsoft Azure AI Fundamentals
+- 🎓 DEPI – Machine Learning Engineer
+- 🎓 NTI – Machine Learning for Data Analysis
+- 🎓 ITI – Business Intelligence
+- 🎓 ALX – AI Career Essentials
+- 🎓 QWorld – Quantum Computing
 
 ---
 
-## 📜 Certifications
-
-- Microsoft Azure AI Fundamentals
-- DEPI Machine Learning
-- ITI Business Intelligence
-- ALX AI Career Essentials
-- QWorld Quantum Computing
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: (www.linkedin.com/in/alzahraa-gamal-807517371)
-- Email: (alzahraagamal9922@gmail.com)
-
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Alzahraa-Gamal22&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alzahraa-Gamal22&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzahraa-Gamal22&layout=compact&theme=tokyonight)
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alzahraa-Gamal22&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzahraa-Gamal22&layout=compact&theme=tokyonight"/>
+
 </p>
-⭐ Thank you for visiting my profile!
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alzahraa-Gamal22&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Natural Language Processing (NLP)
+- ⚡ AI Agents
+- 🚀 MLOps
+- 📈 Machine Learning Projects
+- 📊 Business Intelligence
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** alzahraagamal9922@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/alzahraa-gamal-807517371
+
+🐙 **GitHub:**  
+https://github.com/Alzahraa-Gamal22
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>

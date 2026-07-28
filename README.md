@@ -92,7 +92,6 @@ Interactive Power BI dashboard with SQL integration and DAX measures.
 
 # 📜 Certifications
 
-- 🎓 Microsoft Azure AI Fundamentals
 - 🎓 DEPI – Machine Learning Engineer
 - 🎓 NTI – Machine Learning for Data Analysis
 - 🎓 ITI – Business Intelligence
